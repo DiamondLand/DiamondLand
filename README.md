@@ -1,57 +1,90 @@
-
-# Привет, меня зовут Иван!
-
----
-
-### :man_technologist: Обо мне:
-
-Я back-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался в 2019 году на курсах по Java, но по его окончании я решил попробовать себя в других направлениях, начав с Game Dev и создавая игры на Unity. Выпустив пару инди-проектов за год решил двигаться дальше. Осенью 2021 записался в колледж дополнительного образования и получив свидетельство о профессии рабочего в должности служащего понял, что рабочий инструмент Python мне по душе больше всего. С тех пор начался мой глобальный рост: посещение форумов, выставок, участие в хакатонах, создание крупных и не только проектов, основание своей студии-команды и многое другое. В настоящий момент я учусь в Колледже Информатики и Программирования и нахожусь в поисках стажировки для дальнейшего продвижения в самой комфортной и перспективной сфере - IT!
-
-- 🧡 Курсы изучения Java.
-
-- 🎮 Создание и релиз пяти инди-проектов за год.
-
-- :zap: Cвидетельство о профессии рабочего в должности служащего.
-
-- 💎 Посещение форумов, выставок и участие в хакатонах.
-
-- 💖 Колледж Информатики и Программирования.
-
-- 🎉 Основание своей студии-команды.
-
-- 💌 Поиск стажировки.
-
-- :mailbox: Как связаться со мной:  [![Telegram Badge](https://img.shields.io/badge/-ivanabutkov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ivan_Abutkov)
-
----
-
-### 💻 Технологии:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
+###
 
-### ⚙️ GitHub статистика:
+<div align="center">
+  <a href="diamondland" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="ivan_abutkov" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DiamondLand&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiamondLand&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+###
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DiamondLand)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=diamondland.diamondland&"  />
+</div>
+
+###
+
+<h2 align="center">Hello, world 👋</h2>
+
+###
+
+<h3 align="left">👨‍💻 About me</h3>
+
+###
+
+<p align="left">I'm Ivan. At the moment, the main points in my career are<br><br>- 🧡 Java learning courses.<br>- 🎮 Creating Unity games and releasing four indie projects in a year.<br>- 🐍 A certificate of the profession of a worker in the position of an employee. (python)<br>- 💖 Admission to the college of Computer Science and Programming.<br>- 💎 Visiting forums, exhibitions and participating in hackathons.<br>- 💸 Creating custom bots to order.<br>- 🥰 Joining the college's IT community and creating internal projects.<br>- 💌 Internship search.<br>...</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h3 align="left">👨‍🏫 Learning</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+[![DiamondLand GitHub stats](https://github-readme-stats.vercel.app/api?username=diamondland)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamondland&layout=compact&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=diamondland&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
