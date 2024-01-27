@@ -71,8 +71,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
 [![DiamondLand's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamondland&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamondland&layout=compact&langs_count=10&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ###
