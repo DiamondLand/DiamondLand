@@ -79,12 +79,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-[![DiamondLand GitHub stats](https://github-readme-stats.vercel.app/api?username=diamondland)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamondland&layout=compact&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![DiamondLand's GitHub stats](https://github-readme-stats.vercel.app/api?username=diamondland&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diamondland&layout=compact&langs_count=10&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=diamondland&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
