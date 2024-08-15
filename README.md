@@ -20,14 +20,6 @@
 
 ###
 
-<h3 align="left">👨‍💻 About me</h3>
-
-###
-
-<p align="left">I'm Ivan. At the moment, the main points in my career are<br><br>- 🧡 Java learning courses.<br>- 🎮 Creating Unity games and releasing four indie projects in a year.<br>- 🐍 A certificate of the profession of a worker in the position of an employee. (python)<br>- 💖 Admission to the college of Computer Science and Programming.<br>- 💎 Visiting forums, exhibitions and participating in hackathons.<br>- 💸 Creating custom bots to order.<br>- 🥰 Joining the college's IT community and creating internal projects.<br>- 💌 Internship search.<br>...</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
