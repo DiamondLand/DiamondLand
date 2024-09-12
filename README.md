@@ -23,19 +23,8 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker" />
+    <img src="https://skillicons.dev/icons?i=github,git,androidstudio,bootstrap,cs,py,go,java,js,fastapi,flask,postman,mysql,postgres,sqlite,ai,pr," />
   </a>
-</div>
-
-###
-
-<h3 align="left">👨‍🏫 Learning</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
 </div>
 
 ###
